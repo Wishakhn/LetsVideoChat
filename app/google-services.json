@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1069131541693",
+    "firebase_url": "https://ltesvideochat.firebaseio.com",
+    "project_id": "ltesvideochat",
+    "storage_bucket": "ltesvideochat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1069131541693:android:123654bd470ef9c7ccdbd4",
+        "android_client_info": {
+          "package_name": "com.testapp.letsvideochat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1069131541693-tr183ho4u3kcrah1dh3o7r62ctfb060l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.testapp.letsvideochat",
+            "certificate_hash": "632dfeab8bc4b5147068207ba73a3d6a55a6c970"
+          }
+        },
+        {
+          "client_id": "1069131541693-fev0bg062m5r42ffgag3bu5n3ispvaee.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKwo9_5T9UMW48TkE74kYzM779EfejHmY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1069131541693-fev0bg062m5r42ffgag3bu5n3ispvaee.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
